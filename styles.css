@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    max-width: 800px;
+    margin: 0 auto;
+    color: #292929;
+}
+.text-red{
+    color: red;
+}
+
+.text-blue{
+    color: blue;
+}
+
+.bg-red{
+    background-color: red;
+}
+.bg-blue{
+    background-color: blue;
+}
